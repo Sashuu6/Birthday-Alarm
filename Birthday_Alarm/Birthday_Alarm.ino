@@ -1,11 +1,11 @@
 //==============================================================================//
 //                                                                              //
 //   BIRTHDAY ALARM                                                             //
-//   Author : Vishnu M Aiea                                                     //
-//   Website : www.vishnumaiea.in                                               //
+//   Author : Sashwat K                                                         //
+//   Website : www.sashwat.in                                                   //
 //   Date created : IST 7:39 PM 01-01-2018, Monday                              //
 //   Last updated : 1:12 AM 04-01-2018, Thursday                                //
-//   Version : 7                                                                //
+//   Version : 9                                                                //
 //                                                                              //
 //==============================================================================//
 
@@ -145,7 +145,7 @@ void sleepNow(void) {
     delay(500);
 
     printTime();
-    Serial.println(F("Tada! It's your birthday! Happy B'Day Vishnu :)")); //replace with your name
+    Serial.println(F("Tada! It's your birthday! Happy B'Day Sashwat K :)")); //replace with your name
 
     blinkLED(); //blink LEDs
     delay(1000);
